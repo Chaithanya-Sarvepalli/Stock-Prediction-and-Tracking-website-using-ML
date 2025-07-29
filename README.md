@@ -82,7 +82,7 @@ Example:
 
 - **Name**: Sarvepalli Chaitanya
 - **Project Type**: Final Year B.Tech Project
-- **GitHub**: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **GitHub**: https://github.com/Chaithanya-Sarvepalli
 
 ---
 
